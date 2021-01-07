@@ -1,9 +1,13 @@
 # Strogonoff de Frango :chicken
 
-### Ingredientes
+## Ingredientes
 
  - 1 quilo de peito de frango sem pele
- 1 tablete de caldo de galinha
+ - 1 quilo qualquer coisa
+
+**Negrito**
+_italico_
+
 
 
 
